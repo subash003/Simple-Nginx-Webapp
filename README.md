@@ -1,5 +1,6 @@
 # Sample Nginx WebApp
-Docker based Web Application on Nginx server for CVE testing
+
+Docker based Simple Web Application on Nginx server
 
 # For Education Use only
 
@@ -24,4 +25,6 @@ Spinning the Image:
 - Clone or download the repository
 - run `docker-compose up -d`
 - Your website should be up & running on http://localhost:8000/
+
+![homepage](home.png)
 
